@@ -1,4 +1,4 @@
-# [![Bot Icon](https://raw.githubusercontent.com/Scienceveli/Embassy-appointment-booking-bot/main/image.png)](https://www.goxvisa.com/) Automated Visa Appointment Bot ✈️💳
+[![Bot Icon](https://raw.githubusercontent.com/Scienceveli/Embassy-appointment-booking-bot/main/download.jpeg)](https://www.goxvisa.com/)
 
 ---
 
